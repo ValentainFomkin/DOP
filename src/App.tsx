@@ -36,7 +36,7 @@ function App() {
     return (
         <div className="App">
             <Button name={'Show me'} callBack={showUp}/>
-            <Button name={'Clean me'} callBack={clean}/>
+            <Button name={'Clean me!'} callBack={clean}/>
 
 
             <ul>
